@@ -3,7 +3,7 @@
 
 ## Description
 
-This project aims to refactor the existing code of a SEO website to ensureit follows accessibility standards. This is done by consolidating the selectors and properties of CSS, organizing the elements of HTML to follow semantic structure, and adding comments to provide clarity of the function of codes. This project allows coding bootcamp students to consolidate their learning and reinforce good practice in writing clean codes.
+This project aims to refactor the existing code of a SEO website (https://sandy5433.github.io/week1-challenge/) to ensure it follows accessibility standards. This is done by consolidating the selectors and properties of CSS, organizing the elements of HTML to follow semantic structure, and adding comments to provide clarity of the function of codes. This project allows coding bootcamp students to consolidate their learning and reinforce good practice in writing clean codes.
 
 
 ## Usage
