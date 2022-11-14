@@ -9,10 +9,10 @@ This project aims to refactor the existing code of a SEO website to ensureit fol
 ## Usage
 
 Below is a screenshot of a section of the html code of the header section:
-![alt header-before](assets/header-before.png)
+![alt="header-before"](assets/images/header-before.png)
 
 After refactoring the code, it now looks like this:
-![alt header-after](assets/header-after.png)
+![alt="header-after"](assets/images/header-after.png)
 
 As you can see from the above example, the class for header has been removed as it is redundant. 'Div' has also been changed to 'nav' to provide more meaning to the section. 
 
