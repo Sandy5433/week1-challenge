@@ -16,7 +16,7 @@ After refactoring the code, it now looks like this:
 
 As you can see from the above example, the class for header has been removed as it is redundant. 'Div' has also been changed to 'nav' to provide more meaning to the section. 
 
-Similar improvements made in the css code where classes of the same style (left image) are consolidated into one class (right image) as shown below:
+Similar improvements made in the css code where classes of the same style are consolidated into one class as shown below:
 ![alt="css-before"](Assets/images/css-before.png)
 ![alt="css-after"](Assets/images/css-after.png)
 
