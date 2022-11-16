@@ -18,11 +18,9 @@ As you can see from the above example, the class for header has been removed as 
 
 Similar improvements have also been made in the css code where classes of the same style are consolidated into one class.
 
-Original code:
 ![alt="css-before"](Assets/images/css-before.png)
-
-Updated code:
 ![alt="css-after"](Assets/images/css-after.png)
+
 
 ## Support
 
